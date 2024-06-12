@@ -1,0 +1,150 @@
+p{
+    margin: 0px;
+    font-size:17px ;
+    color: #817b7b;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+
+}
+b{
+    padding: 0px 5px;
+    color: #2c78f3;
+    background-color: #fff;
+    font-size: 15px;
+    font-weight: 600;
+}
+.main-div{
+    background-color: #fff;
+    padding: 5px 0px;
+    display: flex;
+    
+    justify-content: center;
+    width: 100%;
+}
+.box{
+    border: 1px solid #ccc;
+    width: 360px;    
+}
+.img{
+    padding-top:28px ;
+    padding-bottom: 5px;
+    width: 179px;
+    height: 86px;
+}
+.logo{
+
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+.sentence{
+    padding-bottom: 5px;
+}
+.facebook{
+    padding-top: 12px;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+button{
+    padding: 7px 16px;
+    width: 70%;
+    font-weight: 600;
+    font-size: 14px;
+    background-color:#0095f6;
+    color: #fff;
+    border: 0px solid white;
+    border-radius: 6px;
+}
+#line{
+    color: #bdbaba;
+    font-weight: 400;
+    font-size: 11px;
+     
+
+}
+#or{
+    color: #8a8787;
+    font-weight: 500;
+    font-size: 13px;
+    padding: 3px 15px;
+}
+input{
+    text-decoration: none;
+    font-size: 12px;
+    padding: 10px 0px 10.75px 8px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    width: 70%;
+    border:1px solid #ccc;
+    border-radius: 2.5px;
+
+}
+.signup-form{
+    padding-bottom: 6px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+ 
+}
+.para{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+a{
+    color: #00379b;
+    text-decoration: none;
+}
+small{
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    padding-top: 8px;
+    text-align: center;
+    width:72%;
+    font-size: 12px;
+    margin:0px;
+    color: #737373;
+    padding-bottom: 5px;
+}
+#btn{
+    background-color: #4cb5f9;
+    color: #fff;
+    align-items: stretch;
+    width: 285px;
+    padding: 8px 0px;
+}
+.sign-btn
+{
+ margin: 8px 40px 8px 40px;
+ display: flex;
+ flex-wrap: wrap;
+ justify-content: center;
+ padding-bottom: 35px;
+}   
+.acc{
+  display: flex;   
+  justify-content: center;
+  width: 100%;
+}
+.already{
+    border: 1px solid #ccc;
+    width: 360px;    
+}
+#ac{
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    color: rgb(24, 24, 24);
+    padding: 20px;
+    font-size: 14px;
+    font-weight: 100;
+}
+#anchor{
+    color: #0095f6;
+    font-weight: 600;
+    padding-left: 5px;
+}
